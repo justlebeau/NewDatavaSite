@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text on DATAVA Consulting</title>
+    <link>/tags/text/</link>
+    <description>Recent content in Text on DATAVA Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retrieving Lexile Levels in R</title>
+      <link>/post/lexilelevels/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lexilelevels/</guid>
+      <description>For those that don&#39;t work in education or aren&#39;t aware, there is a measurement for a child&#39;s reading level called a Lexile ® Level. &amp;nbsp;There are ways in which this level can be retrieved using different reading assessments. &amp;nbsp;The measurement can be used to match a child&#39;s reading level to books that are the same level. &amp;nbsp;So the company maintains a database of books that they have assigned levels. &amp;nbsp;There are other assessments that measure how well a child is reading, but I&#39;m not aware of any systems that assign books as comprehensively.</description>
+    </item>
+    
+  </channel>
+</rss>

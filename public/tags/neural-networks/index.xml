@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural Networks on DATAVA Consulting</title>
+    <link>/tags/neural-networks/</link>
+    <description>Recent content in Neural Networks on DATAVA Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Learning and The Boss</title>
+      <link>/post/deeplearntheboss/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/deeplearntheboss/</guid>
+      <description>I created a Twitter account which was inspired by a couple Twitter accounts that applied a particular type of machine learning technique to learn how two (at the time) presidential hopefuls spoke. I thought, why not see what a model like this could do with lyrics from my favorite rock n roll artist?
+Long short term memory (LSTM) is a recurrent neural network (RNN) that can be used to produce sentences or phrases by learning from text.</description>
+    </item>
+    
+  </channel>
+</rss>

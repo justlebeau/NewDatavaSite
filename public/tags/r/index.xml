@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on DATAVA Consulting</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on DATAVA Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Visualizations</title>
+      <link>/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gun Data Dashboard</title>
+      <link>/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Medical Clinic Map and Dashboard</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Data Mining Presentation</title>
+      <link>/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieving Lexile Levels in R</title>
+      <link>/post/lexilelevels/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lexilelevels/</guid>
+      <description>For those that don&#39;t work in education or aren&#39;t aware, there is a measurement for a child&#39;s reading level called a Lexile ® Level. &amp;nbsp;There are ways in which this level can be retrieved using different reading assessments. &amp;nbsp;The measurement can be used to match a child&#39;s reading level to books that are the same level. &amp;nbsp;So the company maintains a database of books that they have assigned levels. &amp;nbsp;There are other assessments that measure how well a child is reading, but I&#39;m not aware of any systems that assign books as comprehensively.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning and The Boss</title>
+      <link>/post/deeplearntheboss/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/deeplearntheboss/</guid>
+      <description>I created a Twitter account which was inspired by a couple Twitter accounts that applied a particular type of machine learning technique to learn how two (at the time) presidential hopefuls spoke. I thought, why not see what a model like this could do with lyrics from my favorite rock n roll artist?
+Long short term memory (LSTM) is a recurrent neural network (RNN) that can be used to produce sentences or phrases by learning from text.</description>
+    </item>
+    
+    <item>
+      <title>Language Difficulty and Diversity</title>
+      <link>/post/empty/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/empty/</guid>
+      <description>*For R users not interested in the post but the code, a markdown file is available on github. Thanks to Zuguang Gu and Bob Rudis for the &amp;lsquo;circlize&amp;rsquo; and &amp;lsquo;waffle&amp;rsquo; packages respectively.
+I&amp;rsquo;ve been studying Arabic for about 10 months now and had some thoughts that I wanted to post about. It&amp;rsquo;s challenging, but I didn&amp;rsquo;t know how challenging it was exactly when compared to other languages even though I knew it was on the more challenging end of the spectrum.</description>
+    </item>
+    
+  </channel>
+</rss>
