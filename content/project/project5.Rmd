@@ -14,4 +14,4 @@ Below is an example report of fake MAP data to demonstrate the use of a this rep
 
 If you are interested in using these reports for your teachers, send us an email (link above) and we will be in touch shortly.  
 
-<iframe src="https://justlebeau.github.io/MAP_ex.html" embedded=true style="border: 2px solid black; position:absolute; top:510px; left:5px; right:5px; bottom:0; width:100%; height:100%"</iframe>
+<iframe src="https://justlebeau.github.io/MAP_ex.html" embedded=true style="border: 2px solid black; position:absolute; top:510px; left:0px; right:0px; bottom:0; width:100%; height:100%"</iframe>
