@@ -1,6 +1,5 @@
 ---
 draft: TRUE
-date :  ""
 ---
 
 Most organizations have data, some lots of it. The problem sometimes becomes what to do with data once you have it.  As various tools have increased the ability for data to be collected it is critical to have the means to understand and interpret this information.
