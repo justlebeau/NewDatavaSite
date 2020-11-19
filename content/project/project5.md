@@ -1,6 +1,6 @@
 ---
 title: "My Classroom Analytics"
-description: "This dashboard system and other tools are designed to enhance teacher and administrator decision making in regards to responding to data"
+description: "This dashboard system and other tools are designed to enhance teacher and administrator decision making in regards to responding to data https://myclassroomanalytics.com/"
 tags: ["r", "MAP", "edtech"]
 weight: 2
 draft: false
