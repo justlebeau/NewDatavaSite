@@ -1,9 +1,11 @@
 ---
-title: "Gun Data Dashboard"
-description: "This dashboard gives informatin on gun sales and mass shooting events in the US"
+title: "Stock Data Dashboard"
+description: "This dashboard gives information on various stocks from the SP500 https://datavaapps.shinyapps.io/StockAnalyzer/"
 tags: ["r", "shiny"]
 weight: 3
 draft: false
 ---
 
-<iframe src="https://justlebeau.github.io/gundata.html#gun-sales-by-state" embedded=true style="border: 0; position:absolute; top:50px; left:0; right:0; bottom:0; width:100%; height:90%"</iframe>
+This app is a work in progress.  Allows the user to pick certain stocks and see a couple different trend metrics related to the stock.
+
+[![stockviz](stockviz.PNG)](https://datavaapps.shinyapps.io/StockAnalyzer/)
