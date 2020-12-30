@@ -8,4 +8,4 @@ draft: false
 
 Below is a link to a financial report that contains interactive tables/visualizations for understanding net worth.
 
-[![Financial Report]](https://justlebeau.github.io/portfolio/FinancialReport.html)
+[Financial Report](https://justlebeau.github.io/portfolio/FinancialReport.html)
