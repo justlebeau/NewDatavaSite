@@ -10,4 +10,4 @@ This document provides a consolidated view of networth for HNWI (High Net Worth 
 
 [Financial Report](https://justlebeau.github.io/portfolio/FinancialReport.html)
 
-Additional security features for this document are available upon request.  
+This document can be encrypted client-side for security purposes.  
